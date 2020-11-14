@@ -39,29 +39,3 @@ Welcome to my Github page! I am currently finishing the Full Stack Web Developme
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
