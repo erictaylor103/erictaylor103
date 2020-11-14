@@ -34,6 +34,5 @@ Welcome to my Github page! I am currently finishing the Full Stack Web Developme
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
-<code><img width="4%" src=""></code>
 <br />
 </p>
