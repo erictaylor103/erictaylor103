@@ -24,18 +24,18 @@ Welcome to my Github page! I am currently finishing the Full Stack Web Developme
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=erictaylor103&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
-<code><img width="10%" src=""></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
+<code><img width="4%" src=""></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 </p>
