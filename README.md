@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erictaylordev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erictaylor1@gmail.com)
 
-Welcome to my Github page! I am currently finishing the Full Stack Web Development curriculum at Lambda School.
+Welcome to my Github page!
 
 
 #### 🌱 What I love to do: 
