@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 #### 🌱 What I love to do: 
 - Coding 👨‍💻
-- Biking (getting lost in bike trails is fun! 🚵‍♂️) 
+- Biking (getting lost on bike trails is fun! 🚵‍♂️) 
 - Kayaking
 - Music production (house, tech-house, techno...let's dance! 🕺🏽)
 
